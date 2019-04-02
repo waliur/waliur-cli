@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Postman\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/console": "^4.2",
+        "symfony/yaml": "^4.2"
+    }
+}
